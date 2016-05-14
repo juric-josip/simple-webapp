@@ -29,7 +29,7 @@
 
 	<scm>
 
-		<connection>scm:git:http://github.com/juric-josip/simple-webapp.git</connection>
+		<connectionUrl>scm:git:http://github.com/juric-josip/simple-webapp.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/juric-josip/simple-webapp.git</developerConnection>
 		<url>https://github.com/juric-josip/simple-webapp.git</url>
 
